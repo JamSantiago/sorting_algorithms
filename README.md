@@ -1,2 +1,2 @@
 # sorting_algorithms
-Implementing sorting algorithms in python.
+Sorting algorithms implementation in python.
